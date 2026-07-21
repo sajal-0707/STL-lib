@@ -20,5 +20,5 @@ int main()
     cout<<"Capacity= "<<vec.capacity()<<endl;
     vec.push_back(5);
      cout<<"size= "<<vec.size()<<endl;
-    cout<<"Capacity= "<<vec.capacity()<<endl;// capacity gets double when size becomes greater than last capacity
+    cout<<"Capacity= "<<vec.capacity()<<endl;// capacity gets double when size becomes greater than last
 }
