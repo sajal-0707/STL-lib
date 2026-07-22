@@ -8,5 +8,5 @@ int main()
     cout<<"is empty? = "<<vec.empty()<<endl;
     vec.clear();
     cout<<"Size after clearing = "<<vec.size()<<endl;//clears the vector
-    cout<<"is empty? = "<<vec.empty();// 0 = false ; 1 = true
+    cout<<"is empty ? = "<<vec.empty();// 0 = false ; 1 = true
 }
